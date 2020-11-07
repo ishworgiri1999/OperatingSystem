@@ -13,4 +13,9 @@ Codes Related to Operating System
 
 ### Quiz ###
 
-    :  ### Fetchs math quiz from server using curl in child process and sends to parent using pipe and parent processes all question and answer from json using helper functions and let`s user play each iteration of game and so on until End Of File as Input is given.  ###
+      ### Fetchs math quiz from server using curl in child process and sends to parent using pipe and parent processes all question and answer from json using helper functions and let`s user play each iteration of game and so on until End Of File as Input is given.  ###
+
+### Network_Game ###
+
+      ### Using TCP/SOCKETS/SELECT for event driven game where user can connect to server and play game individually. ###
+
